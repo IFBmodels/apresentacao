@@ -16,7 +16,7 @@
 
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{aula-ifb}[2017/03/25 Classe para palestras no IFB]
+\ProvidesClass{apresentacao-ifb}[2017/03/25 Classe para apresentações no IFB]
 % Extenderemos a classe Beamer
 \LoadClass{beamer}
 
@@ -155,7 +155,7 @@ watermarkheightmult=10,% The watermark image is 4 times bigger
 
 
 \author{Prof. Daniel Saad Nogueira Nunes}
-\title{Título da Palestra}
+\title{Título da Apresentação}
 \subtitle{Subtítulo}
 \institute{IFB -- Instituto Federal de Brasília\\ Câmpus Taguatinga}
 \date{}
